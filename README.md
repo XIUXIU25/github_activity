@@ -1,5 +1,6 @@
 # GitHub User Activity CLI
 https://roadmap.sh/projects/github-user-activity
+
 A simple command-line tool to fetch and display recent activity of a GitHub user.
 
 This tool allows you to see the latest activities (like pushes, issues, stars, etc.) of any GitHub user directly in your terminal.
